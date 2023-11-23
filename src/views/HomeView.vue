@@ -9,8 +9,8 @@
   </q-layout>
   <q-layout view="lHh Lpr lFf" class="bg-white" style="min-height: 320px;">
     <div style="padding-top: 120px;">    
-      <div class="text-bold text-h4 text-dark">Kenapa Harus <span style="color: #bd2130;">SMK Telkom Makassar</span>?</div>
-      <div class="text-caption text-grey-8" style="padding-top: 5px;">Alasan kenapa harus memilih untuk bergabung dengan <span style="color: #bd2130;">SMK Telkom Makassar</span>.</div>
+      <div class="text-bold text-h4 text-dark">Kenapa Harus <span class="text-bold text-h4" style="color: #bd2130;">SMK Telkom Makassar</span>?</div>
+      <div class="text-caption text-grey-8" style="padding-top: 5px;">Alasan kenapa harus memilih untuk bergabung dengan <span class="text-caption q-ma-none" style="color: #bd2130;">SMK Telkom Makassar</span>.</div>
     </div>
     <CarouseL style="margin-bottom: 70px;"></CarouseL>
   </q-layout>
@@ -44,14 +44,14 @@
   <q-layout view="lHh Lpr lFf" class="bg-white text-center" style="min-height: 320px;">
     <div style="padding-top: 120px;">    
       <div class="text-bold text-h4 text-dark">Program Keahlian</div>
-      <div class="text-caption text-grey-8" style="padding-top: 5px;">Pilihan program keahlian di <span style="color: #bd2130;">SMK Telkom Makassar</span>.</div>
+      <div class="text-caption text-grey-8" style="padding-top: 5px;">Pilihan program keahlian di <span class="text-caption q-ma-none" style="color: #bd2130;">SMK Telkom Makassar</span>.</div>
     </div>
     <KiKards></KiKards>
   </q-layout>
   <q-layout view="lHh Lpr lFf" class="bg-white text-center" style="min-height: 320px;">
     <div style="padding-top: 70px;">    
       <div class="text-bold text-h4 text-dark">Berita Terbaru</div>
-      <div class="text-caption text-grey-8" style="padding-top: 5px;">Ikuti terus informasi dan berita-berita terbaru tentang <span style="color: #bd2130;">SMK Telkom Makassar</span>.</div>
+      <div class="text-caption text-grey-8" style="padding-top: 5px;">Ikuti terus informasi dan berita-berita terbaru tentang <span class="text-caption q-ma-none" style="color: #bd2130;">SMK Telkom Makassar</span>.</div>
     </div>
     <div style="margin: 30px; margin-bottom: 120px;"><KaKards></KaKards></div>
     
