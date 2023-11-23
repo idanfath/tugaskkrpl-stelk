@@ -139,7 +139,7 @@
             style="color: #777777; text-align: left"
           >
             Copyright
-            <span style="color: #bd2130">SMK Telkom Makassar</span> @2023.
+            <span class="text-subtitle1 q-ma-none" style="color: #bd2130">SMK Telkom Makassar</span> @2023.
           </h1>
         </div>
       </div>
