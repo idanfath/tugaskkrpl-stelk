@@ -139,6 +139,7 @@
             style="color: #777777; text-align: left"
           >
             Copyright
+            
             <span class="text-subtitle1 q-ma-none" style="color: #bd2130">SMK Telkom Makassar</span> @2023.
           </h1>
         </div>
@@ -147,7 +148,9 @@
 </template>
 
   <script>
-  export default {};
+  export default {
+
+  };
   </script>
 
 <style>
