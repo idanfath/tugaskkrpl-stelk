@@ -1,20 +1,4 @@
 <template>
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,0,0" />
-  <q-layout>
-  <div class="header-fix">
-  <q-header class="header bg-dark">
-      <h1 id="title" class="title" style="color: white;">SCHOENE</h1>
-      <nav style="display: flex;">
-        <router-link to="/">Home</router-link> 
-        <router-link to="/shop">About</router-link>
-        <router-link to="/Blog">Erik</router-link> 
-        <router-link to="/Contact">Vmxk?</router-link> 
-        <router-link to="/shopping_bag" class="router-link"><span class="material-icons"> shopping_bag</span>(10)</router-link>
-        <router-link to="/person"><span class="material-icons" >person</span></router-link>
-      </nav>
-    </q-header>
-  </div>  
-
 
   <q-page-container>
     <RouterView/>
